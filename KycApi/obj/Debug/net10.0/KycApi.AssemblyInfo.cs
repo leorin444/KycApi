@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KycApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7568253010f0d23b36c038b4e6506ff79ea86c61")]
 [assembly: System.Reflection.AssemblyProductAttribute("KycApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KycApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

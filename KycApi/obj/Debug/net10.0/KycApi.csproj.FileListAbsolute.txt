@@ -168,3 +168,6 @@ A:\API\KycApi\obj\Debug\net10.0\refint\KycApi.dll
 A:\API\KycApi\obj\Debug\net10.0\KycApi.pdb
 A:\API\KycApi\obj\Debug\net10.0\KycApi.genruntimeconfig.cache
 A:\API\KycApi\obj\Debug\net10.0\ref\KycApi.dll
+A:\API\KycApi\obj\Debug\net10.0\KycApi.sourcelink.json
+A:\API\KycApi\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+A:\API\KycApi\bin\Debug\net10.0\BCrypt.Net-Next.dll

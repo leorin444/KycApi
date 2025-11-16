@@ -26,5 +26,11 @@ namespace KycApi.Models
         public string CitizenshipNumber { get; set; }
 
         public string CitizenshipIssuedDate { get; set; }
+
+        public string Status { get; set; } = "Pending"; // Pending, Approved, Rejected
+
+        public DateTime? ReviewedAt { get; set; } // When admin approved/rejected
+        public string? RejectionReason { get; set; } // Only filled when rejected
+
     }
 }
